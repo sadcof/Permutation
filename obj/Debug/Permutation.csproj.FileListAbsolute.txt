@@ -1,0 +1,8 @@
+D:\C#\Junior\Permutation\Permutation\bin\Debug\Permutation.exe.config
+D:\C#\Junior\Permutation\Permutation\bin\Debug\Permutation.exe
+D:\C#\Junior\Permutation\Permutation\bin\Debug\Permutation.pdb
+D:\C#\Junior\Permutation\Permutation\obj\Debug\Permutation.csproj.AssemblyReference.cache
+D:\C#\Junior\Permutation\Permutation\obj\Debug\Permutation.csproj.SuggestedBindingRedirects.cache
+D:\C#\Junior\Permutation\Permutation\obj\Debug\Permutation.csproj.CoreCompileInputs.cache
+D:\C#\Junior\Permutation\Permutation\obj\Debug\Permutation.exe
+D:\C#\Junior\Permutation\Permutation\obj\Debug\Permutation.pdb
