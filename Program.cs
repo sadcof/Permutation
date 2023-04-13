@@ -14,9 +14,9 @@ namespace Permutation
             string surname = "Фрэнк";
             Console.WriteLine($"Имя {name}, фамилия {surname}");
 
-            string change = name;
+            string lineChanging = name;
             name = surname;
-            surname = change;
+            surname = lineChanging;
 
             Console.WriteLine($"Имя {name}, фамилия {surname}");
             Console.ReadKey(); 
